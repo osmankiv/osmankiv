@@ -38,12 +38,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmankiv&theme=dark&hide_border=true" width="49%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmankiv&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="50%" >
 </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=osmankiv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p width="45%" display= "inline">
+ <h1>🏆 GitHub Trophies </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=osmankiv&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</p>
+<p width="45%"  display= "inline">
+<h1> ✍️ Random Dev Quote</h1>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<p width="50%">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osmankiv&limit=5&theme=radical&combine_all_yearly_contributions=true)
