@@ -1,4 +1,4 @@
-# 💫About Me: <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="50" height="50" />
+<h1>💫About Me:</h1> <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="50" height="50" />
 Hi I'm Osman full stack Developer 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, web App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
