@@ -2,7 +2,7 @@
 <br>
 Hi I'm <b>Osman full stack Developer</b> 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, web App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-
+<hr>
 ## 🌐 Socials:
 <p>
  <a href="https://discord.gg/da_rko" width="13%">
