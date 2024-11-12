@@ -1,7 +1,7 @@
 <h1>💫About Me:</h1> <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="50" height="50" />
 <br>
 Hi I'm <b>Osman full stack Developer</b> 
-I am a versatilist and easily adapt to different hats (Full Stack<b> Web Developer 🌐</b>,<b> web App Developer 📱</b>, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats (Full Stack<b> Web Developer 🌐</b>,<b> web App Developer 📱</b>, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. <b>I love exploring new tech stack 💻 </b>and leveraging them to build cool stuffs 🛠️. 
 <hr>
 <br>
 ## 🌐 Socials:
