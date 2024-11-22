@@ -45,7 +45,7 @@ I am a versatilist and easily adapt to different hats (Full Stack<b> Web Develop
  <h1>🏆 GitHub Trophies </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=osmankiv&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
-<p width="45%"  display= "inline">
+<p width="44%"  display= "inline">
 <h1> ✍️ Random Dev Quote</h1>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 <p width="50%">
