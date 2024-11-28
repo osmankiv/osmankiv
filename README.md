@@ -6,6 +6,7 @@ I am a versatilist and easily adapt to different hats (Full Stack<b> Web Develop
 <br>
 ## 🌐 Socials:
 <p>
+ <s>s</s>
  <a href="https://discord.gg/da_rko" width="13%">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
   </a> 
