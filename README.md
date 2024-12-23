@@ -1,5 +1,5 @@
 <h1>💫About Me: <img src="https://github.com/user-attachments/assets/f631effd-1eae-47aa-9257-7f6cda239884" width="51" height="51" /></h1>
-<br>
+<br>//
 <s>Hi I'm </s><b>Osman full stack Developer</b> 
 I am a versatilist and easily adapt to different hats (Full Stack<b> Web Developer 🌐</b>,<b> web App Developer 📱</b>, ML Engineer 🤖 or<s> beginner</s> level Designer 🎨) <sr>a</sr>depending on what the project requires. <b>I love exploring new tech stack 💻 </b>and leveraging them to build cool stuffs 🛠️. 
 <hr>
